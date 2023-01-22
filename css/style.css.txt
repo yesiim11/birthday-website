@@ -1,0 +1,14 @@
+9charset "utf-8";
+
+#header{
+
+}
+#content{
+
+}
+#footer{
+
+}
+.websitesilogo{
+
+}
